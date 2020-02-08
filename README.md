@@ -15,7 +15,8 @@ Please make sure that you have the java8 version installed to run the game
 In this link you can find the video that proves our game run and execute correctly
 https://youtu.be/-wnieRaBjVU
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-wnieRaBjVU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi//-wnieRaBjVUmaxresdefault.jpg)](https://youtu.be/-wnieRaBjVU)
+
 
 ## Authors
 
