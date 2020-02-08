@@ -8,6 +8,9 @@ We developed the game mind master in Java
 ## How to use
 first download the repository and open the directory Test with Eclipse IDE
 
+## Java version
+Please make sure that you have the java8 version installed to run the game
+
 ## Authors
 
 Daniela Chamorro
